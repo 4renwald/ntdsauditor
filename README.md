@@ -1,2 +1,2 @@
 # ntdsauditor
-NTDS auditing using ntdissector from Synacktiv
+Small wrapper for ntdissector from Synacktiv
